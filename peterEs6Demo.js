@@ -134,6 +134,7 @@ function templateStrings(){
 	var tempString = `Today is ${day} and were at ${event} ${scream()}`;
 	
 	console.log(tempString)
+	console.log()
 	
 	var longString = `This 
 is 
