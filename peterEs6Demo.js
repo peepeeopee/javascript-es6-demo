@@ -135,9 +135,15 @@ function templateStrings(){
 	
 	console.log(tempString)
 	
-	var longString = `This is a multi
-	line 
-	message`;
+	var longString = `This 
+is 
+Sparta!!!
+
+	  W
+	  0/   \\0/
+	 /|_   \\|
+	  /     /   ______
+	`;
 	
 	console.log(longString)
 }
